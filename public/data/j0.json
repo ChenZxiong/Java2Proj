@@ -1,0 +1,29 @@
+{
+  "repo": "yuk1i/cs305-2022fall-homework1-student",
+  "developers": 2,
+  "active_contributor1": {
+    "login": "yuk1i",
+    "commits": 8,
+    "avatar_url": "https://avatars.githubusercontent.com/u/89620162?v=4",
+    "html_url": "https://github.com/yuk1i"
+  },
+  "active_contributor2": {
+    "login": "Leo-Adventure",
+    "commits": 2,
+    "avatar_url": "https://avatars.githubusercontent.com/u/82221347?v=4",
+    "html_url": "https://github.com/Leo-Adventure"
+  },
+  "open_issues": 29,
+  "clos_issues": 9,
+  "average": 88463,
+  "max_difference": 350838,
+  "variance": 12055287160,
+  "release": 0,
+  "weekdays": 9,
+  "weekends": 1,
+  "1": 5,
+  "2": 0,
+  "3": 0,
+  "4": 4,
+  "5": 1
+}
