@@ -1,0 +1,695 @@
+{
+  "repo": "visgl/deck.gl",
+  "developers": 181,
+  "active_contributor1": {
+    "login": "Pessimistress",
+    "commits": 1360,
+    "avatar_url": "https://avatars.githubusercontent.com/u/2059298?v=4",
+    "html_url": "https://github.com/Pessimistress"
+  },
+  "active_contributor2": {
+    "login": "ibgreen",
+    "commits": 503,
+    "avatar_url": "https://avatars.githubusercontent.com/u/7025232?v=4",
+    "html_url": "https://github.com/ibgreen"
+  },
+  "active_contributor3": {
+    "login": "1chandu",
+    "commits": 287,
+    "avatar_url": "https://avatars.githubusercontent.com/u/9502731?v=4",
+    "html_url": "https://github.com/1chandu"
+  },
+  "open_issues": 203,
+  "clos_issues": 6432,
+  "average": 2710603,
+  "max_difference": 121765640000,
+  "variance": 80612498866,
+  "release": 134,
+  "Comments0": {
+    "CommentsNum": 311,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.20",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.19"
+  },
+  "Comments1": {
+    "CommentsNum": 66,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.19",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.18"
+  },
+  "Comments2": {
+    "CommentsNum": 0,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.18",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.17"
+  },
+  "Comments3": {
+    "CommentsNum": 0,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.17",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.16"
+  },
+  "Comments4": {
+    "CommentsNum": 0,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.16",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.15"
+  },
+  "Comments5": {
+    "CommentsNum": 0,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.15",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.9.0-alpha.5"
+  },
+  "Comments6": {
+    "CommentsNum": 0,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.9.0-alpha.5",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.14"
+  },
+  "Comments7": {
+    "CommentsNum": 0,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.14",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.13"
+  },
+  "Comments8": {
+    "CommentsNum": 14,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.13",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.9.0-alpha.4"
+  },
+  "Comments9": {
+    "CommentsNum": 3,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.9.0-alpha.4",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.9.0-alpha.3"
+  },
+  "Comments10": {
+    "CommentsNum": 455,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.9.0-alpha.3",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.11"
+  },
+  "Comments11": {
+    "CommentsNum": 48,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.11",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.10"
+  },
+  "Comments12": {
+    "CommentsNum": 7,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.10",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.9.0-alpha.1"
+  },
+  "Comments13": {
+    "CommentsNum": 40,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.9.0-alpha.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.9"
+  },
+  "Comments14": {
+    "CommentsNum": 11,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.9",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.8"
+  },
+  "Comments15": {
+    "CommentsNum": 24,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.8",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.7"
+  },
+  "Comments16": {
+    "CommentsNum": 112,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.7",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.6"
+  },
+  "Comments17": {
+    "CommentsNum": 58,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.6",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.5"
+  },
+  "Comments18": {
+    "CommentsNum": 23,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.5",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.4"
+  },
+  "Comments19": {
+    "CommentsNum": 16,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.4",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.3"
+  },
+  "Comments20": {
+    "CommentsNum": 14,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.3",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.2"
+  },
+  "Comments21": {
+    "CommentsNum": 38,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.2",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.1"
+  },
+  "Comments22": {
+    "CommentsNum": 16,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0"
+  },
+  "Comments23": {
+    "CommentsNum": 33,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-beta.5"
+  },
+  "Comments24": {
+    "CommentsNum": 37,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-beta.5",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-beta.4"
+  },
+  "Comments25": {
+    "CommentsNum": 6,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-beta.4",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.12"
+  },
+  "Comments26": {
+    "CommentsNum": 8,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.12",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-beta.3"
+  },
+  "Comments27": {
+    "CommentsNum": 81,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-beta.3",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-beta.2"
+  },
+  "Comments28": {
+    "CommentsNum": 4,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-beta.2",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-beta.1"
+  },
+  "Comments29": {
+    "CommentsNum": 41,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-beta.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-alpha.6"
+  },
+  "Comments30": {
+    "CommentsNum": 8,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-alpha.6",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.11"
+  },
+  "Comments31": {
+    "CommentsNum": 89,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.11",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-alpha.5"
+  },
+  "Comments32": {
+    "CommentsNum": 1966,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-alpha.5",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-alpha.4"
+  },
+  "Comments33": {
+    "CommentsNum": 38,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-alpha.4",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.10"
+  },
+  "Comments34": {
+    "CommentsNum": 7,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.10",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-alpha.3"
+  },
+  "Comments35": {
+    "CommentsNum": 2,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-alpha.3",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-alpha.2"
+  },
+  "Comments36": {
+    "CommentsNum": 5,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-alpha.2",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-alpha.1"
+  },
+  "Comments37": {
+    "CommentsNum": 11,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.8.0-alpha.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.9"
+  },
+  "Comments38": {
+    "CommentsNum": 4,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.9",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.8"
+  },
+  "Comments39": {
+    "CommentsNum": 4,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.8",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.7"
+  },
+  "Comments40": {
+    "CommentsNum": 9,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.7",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.5"
+  },
+  "Comments41": {
+    "CommentsNum": 7,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.5",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.4"
+  },
+  "Comments42": {
+    "CommentsNum": 17,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.4",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.3"
+  },
+  "Comments43": {
+    "CommentsNum": 10,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.3",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.1"
+  },
+  "Comments44": {
+    "CommentsNum": 6,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0"
+  },
+  "Comments45": {
+    "CommentsNum": 3,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-beta.7"
+  },
+  "Comments46": {
+    "CommentsNum": 7,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-beta.7",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.9"
+  },
+  "Comments47": {
+    "CommentsNum": 2,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.9",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-beta.6"
+  },
+  "Comments48": {
+    "CommentsNum": 5,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-beta.6",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-beta.5"
+  },
+  "Comments49": {
+    "CommentsNum": 7,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-beta.5",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-beta.4"
+  },
+  "Comments50": {
+    "CommentsNum": 2,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-beta.4",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-beta.3"
+  },
+  "Comments51": {
+    "CommentsNum": 7,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-beta.3",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.8"
+  },
+  "Comments52": {
+    "CommentsNum": 1,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.8",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-beta.2"
+  },
+  "Comments53": {
+    "CommentsNum": 4,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-beta.2",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.7"
+  },
+  "Comments54": {
+    "CommentsNum": 3,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.7",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-beta.1"
+  },
+  "Comments55": {
+    "CommentsNum": 4,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-beta.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.6"
+  },
+  "Comments56": {
+    "CommentsNum": 6,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.6",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.11"
+  },
+  "Comments57": {
+    "CommentsNum": 10,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.11",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.10"
+  },
+  "Comments58": {
+    "CommentsNum": 6,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.10",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.9"
+  },
+  "Comments59": {
+    "CommentsNum": 4,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.9",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.8"
+  },
+  "Comments60": {
+    "CommentsNum": 8,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.8",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.7"
+  },
+  "Comments61": {
+    "CommentsNum": 1,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.7",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.6"
+  },
+  "Comments62": {
+    "CommentsNum": 5,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.6",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.5"
+  },
+  "Comments63": {
+    "CommentsNum": 1,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.5",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.4"
+  },
+  "Comments64": {
+    "CommentsNum": 5,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.4",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.5"
+  },
+  "Comments65": {
+    "CommentsNum": 3,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.5",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.3"
+  },
+  "Comments66": {
+    "CommentsNum": 7,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.3",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.2"
+  },
+  "Comments67": {
+    "CommentsNum": 41,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.2",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.4"
+  },
+  "Comments68": {
+    "CommentsNum": 1,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.4",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.1"
+  },
+  "Comments69": {
+    "CommentsNum": 2,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.7.0-alpha.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.3"
+  },
+  "Comments70": {
+    "CommentsNum": 2,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.3",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.2"
+  },
+  "Comments71": {
+    "CommentsNum": 2,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.2",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.1"
+  },
+  "Comments72": {
+    "CommentsNum": 2,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.0"
+  },
+  "Comments73": {
+    "CommentsNum": 3,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.0",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.0-beta.1"
+  },
+  "Comments74": {
+    "CommentsNum": 4,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.0-beta.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.0-alpha.4"
+  },
+  "Comments75": {
+    "CommentsNum": 3,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.0-alpha.4",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.10"
+  },
+  "Comments76": {
+    "CommentsNum": 7,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.10",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.9"
+  },
+  "Comments77": {
+    "CommentsNum": 11,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.9",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.8"
+  },
+  "Comments78": {
+    "CommentsNum": 5,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.8",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.0-alpha.3"
+  },
+  "Comments79": {
+    "CommentsNum": 7,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.0-alpha.3",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.0-alpha.2"
+  },
+  "Comments80": {
+    "CommentsNum": 1,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.0-alpha.2",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.7"
+  },
+  "Comments81": {
+    "CommentsNum": 2,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.7",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.6"
+  },
+  "Comments82": {
+    "CommentsNum": 5,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.6",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.5"
+  },
+  "Comments83": {
+    "CommentsNum": 6,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.5",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.4"
+  },
+  "Comments84": {
+    "CommentsNum": 11,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.4",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.3"
+  },
+  "Comments85": {
+    "CommentsNum": 12,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.3",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.0-alpha.1"
+  },
+  "Comments86": {
+    "CommentsNum": 4,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.6.0-alpha.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.2"
+  },
+  "Comments87": {
+    "CommentsNum": 9,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.2",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.1"
+  },
+  "Comments88": {
+    "CommentsNum": 12,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.0"
+  },
+  "Comments89": {
+    "CommentsNum": 7,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.0",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.0-beta.2"
+  },
+  "Comments90": {
+    "CommentsNum": 7,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.0-beta.2",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.0-beta.1"
+  },
+  "Comments91": {
+    "CommentsNum": 5,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.0-beta.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.4.20"
+  },
+  "Comments92": {
+    "CommentsNum": 2,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.4.20",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.4.19"
+  },
+  "Comments93": {
+    "CommentsNum": 10,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.4.19",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.4.18"
+  },
+  "Comments94": {
+    "CommentsNum": 11,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.4.18",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.0-alpha.11"
+  },
+  "Comments95": {
+    "CommentsNum": 3,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.0-alpha.11",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.0-alpha.10"
+  },
+  "Comments96": {
+    "CommentsNum": 1,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.0-alpha.10",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.4.17"
+  },
+  "Comments97": {
+    "CommentsNum": 9,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.4.17",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.0-alpha.9"
+  },
+  "Comments98": {
+    "CommentsNum": 3,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.0-alpha.9",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.0-alpha.8"
+  },
+  "Comments99": {
+    "CommentsNum": 2,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.5.0-alpha.8",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.4.16"
+  },
+  "Comments100": {
+    "CommentsNum": 16,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v8.4.16",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.3.1"
+  },
+  "Comments101": {
+    "CommentsNum": 12,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.3.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.2.1"
+  },
+  "Comments102": {
+    "CommentsNum": 6,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.2.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.2.0"
+  },
+  "Comments103": {
+    "CommentsNum": 22,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.2.0",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.2.0-beta.2"
+  },
+  "Comments104": {
+    "CommentsNum": 9,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.2.0-beta.2",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.2.0-beta.1"
+  },
+  "Comments105": {
+    "CommentsNum": 16,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.2.0-beta.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.1.4"
+  },
+  "Comments106": {
+    "CommentsNum": 6,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.1.4",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.1.3"
+  },
+  "Comments107": {
+    "CommentsNum": 4,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.1.3",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.1.2"
+  },
+  "Comments108": {
+    "CommentsNum": 8,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.1.2",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.1.1"
+  },
+  "Comments109": {
+    "CommentsNum": 4,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.1.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.1.0"
+  },
+  "Comments110": {
+    "CommentsNum": 2,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.1.0",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.0.4"
+  },
+  "Comments111": {
+    "CommentsNum": 1,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.0.4",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.0.3"
+  },
+  "Comments112": {
+    "CommentsNum": 3,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.0.3",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.0.2"
+  },
+  "Comments113": {
+    "CommentsNum": 4,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.0.2",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.0.1"
+  },
+  "Comments114": {
+    "CommentsNum": 10,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.0.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.0.0"
+  },
+  "Comments115": {
+    "CommentsNum": 5,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v5.0.0",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v4.1.6"
+  },
+  "Comments116": {
+    "CommentsNum": 5,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v4.1.6",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v4.1.5"
+  },
+  "Comments117": {
+    "CommentsNum": 1,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v4.1.5",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v4.1.4"
+  },
+  "Comments118": {
+    "CommentsNum": 2,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v4.1.4",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v4.1.3"
+  },
+  "Comments119": {
+    "CommentsNum": 11,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v4.1.3",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v4.1.2"
+  },
+  "Comments120": {
+    "CommentsNum": 10,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v4.1.2",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v4.1.1"
+  },
+  "Comments121": {
+    "CommentsNum": 6,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v4.1.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v4.1.0"
+  },
+  "Comments122": {
+    "CommentsNum": 10,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v4.1.0",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.1.1"
+  },
+  "Comments123": {
+    "CommentsNum": 2,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.1.1",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.1.0"
+  },
+  "Comments124": {
+    "CommentsNum": 2,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.1.0",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.0.10"
+  },
+  "Comments125": {
+    "CommentsNum": 12,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.0.10",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.0.8"
+  },
+  "Comments126": {
+    "CommentsNum": 0,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.0.8",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.0.7"
+  },
+  "Comments127": {
+    "CommentsNum": 2,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.0.7",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.0.6"
+  },
+  "Comments128": {
+    "CommentsNum": 3,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.0.6",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.0.5"
+  },
+  "Comments129": {
+    "CommentsNum": 2,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.0.5",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.0.4"
+  },
+  "Comments130": {
+    "CommentsNum": 5,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.0.4",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.0.2"
+  },
+  "Comments131": {
+    "CommentsNum": 7,
+    "BeforeRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.0.2",
+    "AfterRelease": "https://github.com/visgl/deck.gl/releases/tag/v3.0.0"
+  },
+  "weekdays": 3461,
+  "weekends": 812,
+  "1": 2422,
+  "2": 1129,
+  "3": 295,
+  "4": 206,
+  "5": 221
+}

@@ -1,0 +1,240 @@
+{
+  "repo": "hub4j/github-api",
+  "developers": 184,
+  "active_contributor1": {
+    "login": "bitwiseman",
+    "commits": 1416,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1958953?v=4",
+    "html_url": "https://github.com/bitwiseman"
+  },
+  "active_contributor2": {
+    "login": "kohsuke",
+    "commits": 892,
+    "avatar_url": "https://avatars.githubusercontent.com/u/50003?v=4",
+    "html_url": "https://github.com/kohsuke"
+  },
+  "active_contributor3": {
+    "login": "dependabot[bot]",
+    "commits": 198,
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "html_url": "https://github.com/apps/dependabot"
+  },
+  "open_issues": 127,
+  "clos_issues": 1411,
+  "average": 5436828,
+  "max_difference": 214373221000,
+  "variance": 240992003508,
+  "release": 43,
+  "Comments0": {
+    "CommentsNum": 343,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.313",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.308"
+  },
+  "Comments1": {
+    "CommentsNum": 110,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.308",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.307"
+  },
+  "Comments2": {
+    "CommentsNum": 5,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.307",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.306"
+  },
+  "Comments3": {
+    "CommentsNum": 136,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.306",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.305"
+  },
+  "Comments4": {
+    "CommentsNum": 6,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.305",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.303"
+  },
+  "Comments5": {
+    "CommentsNum": 37,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.303",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.302"
+  },
+  "Comments6": {
+    "CommentsNum": 114,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.302",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.301"
+  },
+  "Comments7": {
+    "CommentsNum": 63,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.301",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.300"
+  },
+  "Comments8": {
+    "CommentsNum": 131,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.300",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.135"
+  },
+  "Comments9": {
+    "CommentsNum": 15,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.135",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.133"
+  },
+  "Comments10": {
+    "CommentsNum": 12,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.133",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.132"
+  },
+  "Comments11": {
+    "CommentsNum": 74,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.132",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.131"
+  },
+  "Comments12": {
+    "CommentsNum": 43,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.131",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.130"
+  },
+  "Comments13": {
+    "CommentsNum": 11,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.130",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.129"
+  },
+  "Comments14": {
+    "CommentsNum": 69,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.129",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.128"
+  },
+  "Comments15": {
+    "CommentsNum": 60,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.128",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.127"
+  },
+  "Comments16": {
+    "CommentsNum": 132,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.127",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.126"
+  },
+  "Comments17": {
+    "CommentsNum": 85,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.126",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.125"
+  },
+  "Comments18": {
+    "CommentsNum": 6,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.125",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.124"
+  },
+  "Comments19": {
+    "CommentsNum": 14,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.124",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.123"
+  },
+  "Comments20": {
+    "CommentsNum": 6,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.123",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.122"
+  },
+  "Comments21": {
+    "CommentsNum": 31,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.122",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.120"
+  },
+  "Comments22": {
+    "CommentsNum": 32,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.120",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.119"
+  },
+  "Comments23": {
+    "CommentsNum": 10,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.119",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.118"
+  },
+  "Comments24": {
+    "CommentsNum": 6,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.118",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.117"
+  },
+  "Comments25": {
+    "CommentsNum": 38,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.117",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.116"
+  },
+  "Comments26": {
+    "CommentsNum": 81,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.116",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.115"
+  },
+  "Comments27": {
+    "CommentsNum": 30,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.115",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.114"
+  },
+  "Comments28": {
+    "CommentsNum": 52,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.114",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.113"
+  },
+  "Comments29": {
+    "CommentsNum": 34,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.113",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.112"
+  },
+  "Comments30": {
+    "CommentsNum": 29,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.112",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.111"
+  },
+  "Comments31": {
+    "CommentsNum": 58,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.111",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.110"
+  },
+  "Comments32": {
+    "CommentsNum": 90,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.110",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.109"
+  },
+  "Comments33": {
+    "CommentsNum": 92,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.109",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.108"
+  },
+  "Comments34": {
+    "CommentsNum": 19,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.108",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.107"
+  },
+  "Comments35": {
+    "CommentsNum": 122,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.107",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.105"
+  },
+  "Comments36": {
+    "CommentsNum": 5,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.105",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.103"
+  },
+  "Comments37": {
+    "CommentsNum": 81,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.103",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.102"
+  },
+  "Comments38": {
+    "CommentsNum": 15,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.102",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.101"
+  },
+  "Comments39": {
+    "CommentsNum": 58,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.101",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.100"
+  },
+  "Comments40": {
+    "CommentsNum": 27,
+    "BeforeRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.100",
+    "AfterRelease": "https://github.com/hub4j/github-api/releases/tag/github-api-1.99"
+  },
+  "weekdays": 2779,
+  "weekends": 910,
+  "1": 1589,
+  "2": 915,
+  "3": 216,
+  "4": 490,
+  "5": 479
+}
